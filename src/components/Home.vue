@@ -12,10 +12,10 @@
         <h2>Don't Worry</h2>
         <h3>We care your Vehicle</h3>
         <p>
-          Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
-          minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-          aliquip ex ea commodo consequat.
+        Repaired all types of bicycles including mountain bikes, all terrain bicks.<br/>
+        Installed and adjusted speed and gear mechanisms.
+Installed, repaired, and replaced equipment or accessories, such as handlebars, stands, lights, and seats, align wheels.
+Determined causes of operating errors and decided necessary action       
         </p>
         <a href="#">Our Services</a>
       </div>
